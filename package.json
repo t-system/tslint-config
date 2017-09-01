@@ -1,6 +1,6 @@
 {
   "name": "ts-config-t-system",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Common t configuration files for T-System projects",
   "main": "index.js",
   "scripts": {
