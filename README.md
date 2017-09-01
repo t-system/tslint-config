@@ -1,32 +1,16 @@
-# ts-config
-Write Typescript the T-System way with our very opinionated configurations.
+# tslint-config
+Write Typescript the T-System way!
 
 ```
-npm install --save-dev typescript tslint ts-config-t-system
+npm install --save-dev tslint tslint-config-t-system
 ```
-Provides these files that you can extend and modify in your own config files:
-- `tsconfig-base.json`
-- `tslint-base.json`
-- `ts-connfig-t-system/app/tsconfig.json`
-- `ts-connfig-t-system/app/tslint.json`
-- `ts-connfig-t-system/server/tsconfig.json`
-- `ts-connfig-t-system/server/tslint.json`
 
 #### tslint.json
 ```js
 {
-  "extends": "ts-config-t-system/server/tslint",
+  "extends": "ts-config-t-system/tslint-base",
   "rules" {
-    // other rules (optional)
+    // other rules and overrides (optional)
   }
 }
 ```
-
-### tsconfig.json
-```js
-{
-  "extends": "ts-config-t-system/server/tsconfig",
-  "exclude": [
-    // overwrite config things like this
-  ]
-}

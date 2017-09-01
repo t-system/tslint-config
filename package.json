@@ -1,7 +1,7 @@
 {
-  "name": "ts-config-t-system",
+  "name": "tslint-config-t-system",
   "version": "0.0.2",
-  "description": "Common t configuration files for T-System projects",
+  "description": "tslint configuration for T-System projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
