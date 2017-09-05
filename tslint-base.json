@@ -57,7 +57,7 @@
     "no-unnecessary-type-assertion": true,
     "no-var-keyword": true,
     "object-literal-shorthand": true,
-    "object-literal-sort-keys":[true, "ignore-case", "match-declaration-order"],
+    "object-literal-sort-keys":[true, "ignore-case"],
     "one-line": [true,
       "check-open-brace",
       "check-catch",
