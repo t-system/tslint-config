@@ -52,7 +52,6 @@
     "no-trailing-whitespace": true,
     "no-unsafe-finally": true,
     "no-unused-expression": [true,  "allow-fast-null-checks"],
-    "no-unused-variable": true,
     "no-unnecessary-qualifier": true,
     "no-unnecessary-type-assertion": true,
     "no-var-keyword": true,
