@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-t-system",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "tslint configuration for T-System projects",
   "main": "index.js",
   "scripts": {
