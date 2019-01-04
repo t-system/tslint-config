@@ -15,7 +15,6 @@
     "indent": [true, "spaces", 4],
     "interface-over-type-literal": true,
     "label-position": true,
-    "linebreak-style": [true, "LF"],
     "max-line-length": [true, 120],
     "no-arg": true,
     "no-bitwise": false,
